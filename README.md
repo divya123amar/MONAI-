@@ -218,7 +218,7 @@ Example architectures include:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/MONAI-Brain-Tumor-Segmentation.git
+[git clone https://github.com/yourusername/MONAI-Brain-Tumor-Segmentation.git](https://github.com/divya123amar/MONAI-.git)
 ```
 
 Move into the project directory
